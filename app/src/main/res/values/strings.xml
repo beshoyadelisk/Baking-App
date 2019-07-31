@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+    <string name="error_message">Something went wrong..!</string>
+    <string name="show_moreOrLess_review">show more text</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="step_thumbnail">step thumbnail</string>
+    <string name="serving">Serving :</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="recipe_photo">recipe photo</string>
+    <string name="no_recipe_favorites">No recipes exist ..</string>
+    <string name="ingredient_amount">%1$s %2$s</string>
+    <string name="favourite">favourite image view</string>
+    <string name="add_to_favourite">add to favourite</string>
+    <string name="remove_from_favourite">remove from favourite</string>
+</resources>

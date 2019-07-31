@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.immutables:gson:2.7.3@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.immutables/gson/2.7.3/a3ad0fc10949d894bd5d32c4187b83af7c4f5ad4/gson-2.7.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.immutables/gson/2.7.3/d7044497dac6af54be1b2df0e2d7debf1c58cdd4/gson-2.7.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
